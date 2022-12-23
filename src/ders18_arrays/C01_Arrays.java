@@ -7,6 +7,7 @@ public class C01_Arrays {
 
         // array'in bir elementine ulasmak ve update etmek istersek
 
+        // sevili seviyorum.
         System.out.println(arr1[2]); // 6
 
         arr1[3]=20;
