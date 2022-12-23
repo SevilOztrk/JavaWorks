@@ -1,6 +1,6 @@
 package ders24_constructors;
 
-public class Rope {
+public class    Rope {
 
     Rope(){
         this("Hasan");

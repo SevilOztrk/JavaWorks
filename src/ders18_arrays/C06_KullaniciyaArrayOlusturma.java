@@ -14,15 +14,6 @@ public class C06_KullaniciyaArrayOlusturma {
         System.out.println(Arrays.toString(kullaniciArrayi));
     }
 
-
-
-
-
-
-
-
-
-
     public static int[] arrayOlustur(){
 
         Scanner scan = new Scanner(System.in);
